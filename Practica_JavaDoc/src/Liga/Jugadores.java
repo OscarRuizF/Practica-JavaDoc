@@ -2,7 +2,6 @@ package Liga;
 /**
  * Esta clase representa a cada jugador
  * Contiene el nombre y dorsal de cada jugador
- * 
  * @author suros
  * @version 1.0
  * @since 01/04/2024
