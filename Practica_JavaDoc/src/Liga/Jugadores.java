@@ -43,7 +43,7 @@ public void imprimirDatosJugador() {
 }
 
 /**
- * Permite actualizar el dorsal del jugador
+ * Permite actualizar el dorsal del jugador.
  */
 
 public void actualizarDorsal(int nuevoDorsal) {
