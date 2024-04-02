@@ -26,6 +26,15 @@ public String getNombre() {
 	return nombre;
 }
 
+/**
+ * @deprecaterd Da la opcion de poder cambiar el nombre del jugador, esta obsoleta ya que en la siguiente version no se podra cambiar el nombre del jugador
+ */
+
+public void setNombre (String nombre) {
+	this.nombre = nombre;
+}
+
+
 public int getDorsal() {
 	return dorsal;
 }
@@ -48,6 +57,13 @@ public void imprimirDatosJugador() {
 
 public void actualizarDorsal(int nuevoDorsal) {
 	this.dorsal = nuevoDorsal;
+}
+
+/**
+ * @deprecated Permitia cambiar el nombre del jugador, en la siguiente version se eliminara @link setNombre
+ */
+public void actualizarNombre(String nombre) {
+	this.nombre = nombre;
 }
 
 }
