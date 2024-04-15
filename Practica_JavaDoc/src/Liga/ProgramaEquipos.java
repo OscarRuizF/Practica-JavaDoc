@@ -12,7 +12,7 @@ public class ProgramaEquipos {
 		// TODO Auto-generated method stub
 		
 //crea el equipo Real Madrid		
-Equipos realMadrid = new Equipos("Real Madrid" , 60);
+Equipos realMadrid = new Equipos("Real Madrid" , 100);
 
 //Crea el jugador joselu
 Jugadores joselu = new Jugadores ("Joselu", 10);
