@@ -2,9 +2,9 @@ package Liga;
 
 /**
  * Esta es la clase main que tiene implementada las clases equipos y jugadores
- * @author suros
- * @version 1.1
- * @since 01/04/2024
+ * @author jose
+ * @version 1.2
+ * @since 015/04/2024
 */
 public class ProgramaEquipos {
 
