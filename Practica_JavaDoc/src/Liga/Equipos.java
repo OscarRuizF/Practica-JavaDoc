@@ -22,7 +22,10 @@ public Equipos(String nombre, int puntos) {
 	this.nombre = nombre;
 	this.puntos = puntos;
 }
-
+/**
+ * 
+ * @return
+ */
 	public String getNombre() {
 		return nombre;
 	}
