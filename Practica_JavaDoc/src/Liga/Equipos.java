@@ -14,7 +14,7 @@ public class Equipos {
 	
 	/**
 	 * crea cada jugador
-	 * @param nombre elige el nombre del equipo
+	 * @param nombre elige el nombre del equipo1
 	 * @param puntos elige los puntos del equipo
 	 */
 	
